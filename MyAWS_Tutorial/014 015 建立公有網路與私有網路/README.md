@@ -26,9 +26,11 @@ AWS_Website_Development
 
 主要用於對外公開的服務器, 如 : Web, API服務器
 
-+ 網段決定
-    + 172.16.10.0/24
-    + ap-northeast-1a
-
 + 標籤
-    * Name : davidaws-vpc-db-1a
+    * Name : davidaws-vpc-public-1a
+    
++ 網段決定
+    + ap-northeast-1a
+    + 172.16.10.0/24
+    + 172.16.20.0/24
+
