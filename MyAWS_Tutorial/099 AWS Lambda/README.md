@@ -5,3 +5,6 @@ AWS_Website_Development
 
 ![image](./img/a.PNG)
 
+## Lambda 優勢總結 : 
+
+![image](./img/b.PNG)
