@@ -14,5 +14,21 @@ AWS_Website_Development
 
 ## 實戰演習 :
 
-Visualize 公開網路與私有網路服務器於架構當中關係(VPC大樓 Tutorial 012 013 以建立完成)
++ Visualize 公開網路與私有網路服務器於架構當中關係
++ VPC大樓 Tutorial 012 013 已經建立完成
 ![image](./img/public_privacy_network.PNG)
+
+### 子網所屬VPC(回Tutorial 012 013 確認)
+
++ davidaws-vpc
+
+### 公開網路
+
+主要用於對外公開的服務器, 如 : Web, API服務器
+
++ 網段決定
+    + 172.16.10.0/24
+    + ap-northeast-1a
+
++ 標籤
+    * Name : davidaws-vpc-db-1a
