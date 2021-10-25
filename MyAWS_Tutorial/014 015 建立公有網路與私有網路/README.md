@@ -12,6 +12,7 @@ AWS_Website_Development
 
 ## [AMAZON VPC 官網](https://docs.aws.amazon.com/zh_tw/vpc/latest/userguide/VPC_Subnets.html "VPC 和子網路")
 
-## 實戰演習 : 
+## 實戰演習 :
 
+Visualize 公開網路與私有網路服務器於架構當中關係(VPC大樓 Tutorial 012 013 以建立完成)
 ![image](./img/public_privacy_network.PNG)
