@@ -14,4 +14,4 @@ AWS_Website_Development
 
 ## 實戰演習 : 
 
-
+![image](./img/public_privacy_network.PNG)
