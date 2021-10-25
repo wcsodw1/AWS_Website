@@ -19,7 +19,7 @@ https://aws.amazon.com/cn/
 3.	設置IAM管理員(No Root)
 4.	設置CloudTrail
 
-## 課程文件 :
+## Reference :
 https://github.com/komavideo/learnAWS
 
 
