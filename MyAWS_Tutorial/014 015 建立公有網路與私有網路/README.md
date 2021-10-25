@@ -10,7 +10,8 @@ AWS_Website_Development
 1.建立公有網路
 2.建立私有網路
 
+## [AMAZON VPC 官網](https://docs.aws.amazon.com/zh_tw/vpc/latest/userguide/VPC_Subnets.html "VPC 和子網路")
 
-## [AMAZON VPC 官網](https://docs.aws.amazon.com/zh_tw/vpc/latest/userguide/VPC_Subnets.html "VPC 和子網路") 
+## 實戰演習 : 
 
 
