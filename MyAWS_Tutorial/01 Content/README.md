@@ -63,9 +63,6 @@
 +	SDK(Node, js, Python, Go等三種語言) : 透過各種編譯語言去控制AWS資源
 
 
-## 深學AWS : 
-deeplearneraws.com
- 
 ## 課程目標 : 
 幫助您完成一下系統架構能力
 
