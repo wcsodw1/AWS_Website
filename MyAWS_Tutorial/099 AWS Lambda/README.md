@@ -9,7 +9,7 @@ AWS_Website_Development
 
 ## Lambda 使用場景 : 
 
-![image](./img/a.PNG)
+![image](./img/abc.PNG)
 
 ## Lambda 優勢總結 : 
 
