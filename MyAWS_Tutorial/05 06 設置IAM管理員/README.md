@@ -1,8 +1,8 @@
 # AWS_Website 設置IAM(建子管理員)
-AWS_Website_Development
++ AWS_Website_Development
 
 ## 知識點 : 
-避免使用超級管理員Root根帳號, 應該分配適當有權帳號進行工作管理 最高權限!!(可刪除自己帳號的權利)
++ 避免使用超級管理員Root根帳號, 應該分配適當有權帳號進行工作管理 最高權限!!(可刪除自己帳號的權利)
 
 ## 區別用戶 : 建議平常沒事不要使用根管理員!!
 
@@ -18,7 +18,7 @@ AWS_Website_Development
 ### 普通成員 : 先建立子帳號, 讓子管理者使用的子帳號
 + AWS 資源使用 
 
-###實戰演習 : 
+### 實戰演習 : 
 
 ### IAM(Identity and Access Management) : 負責管理所有系統中的user 角色 權限 策略
 1.簡化用戶登陸URL - wcsodw1
