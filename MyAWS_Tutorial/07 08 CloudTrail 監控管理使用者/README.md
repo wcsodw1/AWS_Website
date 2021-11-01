@@ -1,6 +1,5 @@
 # AWS_Website 設置CloudTrail 監管用戶或API的活動行為 : <BR>
 + AWS_Website_Development 07 08(p.06) 
-===================================
 
 ## 知識點 :  紀錄系統中用戶或API的活動行為 (Who, When, What, ...) 各個活動項目都看得到
 + 個人學習不一定需要CloudTrail 但如果是企業用戶最好使用!
