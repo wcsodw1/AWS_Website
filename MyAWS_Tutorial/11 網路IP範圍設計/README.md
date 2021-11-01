@@ -1,8 +1,7 @@
 # AWS_Website 網絡IP範圍設計 - IP Network 
 AWS_Website_Development
 
-## 知識點 : 
-+ 
+## 知識點 : 建立網路前需要設計IP網段和使用方法
 
 ## 實戰演習 : 
 
