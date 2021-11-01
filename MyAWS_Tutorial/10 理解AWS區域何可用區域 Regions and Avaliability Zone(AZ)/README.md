@@ -9,7 +9,7 @@
 ## AWS 座落點世界地圖 :  
 + 藍色 ：已建立 idc（國家）
 + 橘色 ：建立中
-[AZ](./img/AZ.PNG)
+![AZ](./img/AZ.PNG)
 
 ## 知識點 :  
 + 理解區域（regions）
