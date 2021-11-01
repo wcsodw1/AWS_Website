@@ -21,12 +21,12 @@
 ### 實戰演習 : 
 
 ### IAM(Identity and Access Management) : 負責管理所有系統中的user 角色 權限 策略
-1.簡化用戶登陸URL - wcsodw1
-2.建立管理員組 - wcsodw1-group
-3.建立普通管理員 - wcsodw1
+A.簡化用戶登陸URL - wcsodw1<br>
+B.建立管理員組 - wcsodw1-group<br>
+C.建立普通管理員 - wcsodw1<br>
 
 1.簡化用戶 : 
-IAM : (https://208712304720.signin.aws.amazon.com/console)
+[IAM](https://208712304720.signin.aws.amazon.com/console)
 
 2.建立管理員組 : 
 STEP a.勾選受管管理員權限 : 
