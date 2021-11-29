@@ -12,4 +12,5 @@ AWS_Website_Development
 ## 實戰演習 :
 
 + 1.建立互聯網網際網路閘道
+    + Gateway Name : wcsodw1-internet-gateway
 + 2.綁訂到VPC
