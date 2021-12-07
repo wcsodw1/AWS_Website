@@ -1,4 +1,4 @@
-#  AWS IOT Internet Gateway(建立互聯網 網際網路閘道 - 公有網路 & 私有網路主要區別)
+#  AWS IOT Internet Gateway(建立互聯網網關 網際網路閘道 - 公有網路 & 私有網路主要區別)
 AWS_Website_Development
 ==============================
 
@@ -12,5 +12,5 @@ AWS_Website_Development
 ## 實戰演習 :
 
 + 1.建立互聯網網際網路閘道
-    + Gateway Name : wcsodw1-internet-gateway
+    + Gateway Name : ch16-InternetGateway-lgw
 + 2.綁訂到VPC

@@ -1,4 +1,4 @@
-# AWS_Public_network & Privacy Network(公有網路 & 私有網路)
+# Ch14/15 AWS_Public_network & Privacy Network(公有網路 & 私有網路)
 AWS_Website_Development
 
 
@@ -20,17 +20,25 @@ AWS_Website_Development
 
 ### 子網所屬VPC(回Tutorial 012 013 確認)
 
-+ davidaws-vpc
++ chp12/13_IDC-vpc
 
-### 公開網路
+### 公開網路 :
 
 主要用於對外公開的服務器, 如 : Web, API服務器
 
-+ 標籤
-    * Name : davidaws-vpc-public-1a
-    
-+ 網段決定
-    + ap-northeast-1a
++ 網段決定 :
     + 172.16.10.0/24
-    + 172.16.20.0/24
+    + ap-northeast-1a
++ 標籤 :
+    * Name : chp15-vpc_subnet_public_web-1a
 
+
+### 私有網路 : 
+
+主要用於內部使用的服務器, 如 : (個人)DB, Redis服務器
+
++ 網段決定 :
+    + 172.16.10.0/24
+    + ap-northeast-1a
++ 標籤 :
+    * Name : chp15-vpc_subnet_privacy_db-1a
