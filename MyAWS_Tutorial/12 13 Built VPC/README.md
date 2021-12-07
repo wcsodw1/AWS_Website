@@ -17,7 +17,7 @@ AWS_Website_Development
 + CIDR
     * 172.16.0.0/16
 + 標籤 : 
-    * Name :  chp12/13_IDC-vpc
+    * Name :chp12/13_IDC-vpc
 
 ### 子網所屬VPC(回Tutorial 012 013 確認)
 
