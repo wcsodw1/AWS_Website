@@ -21,4 +21,4 @@ AWS_Website_Development
 
 ### 子網所屬VPC(回Tutorial 012 013 確認)
 
-+ davidaws-vpc
++ chp12/13_IDC-vpc
