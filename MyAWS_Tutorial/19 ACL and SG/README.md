@@ -18,6 +18,5 @@ AWS_Website_Development
 
  
 ###
-1.Name : chp19_20_ACL_SG-web-sg
-
-### 
++ 1.Name : chp19_20_ACL_SG-web-sg
++ 2.Port22
